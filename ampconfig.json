@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "moxsb20p",
+    "id": "cl04b0vtn159639801s6got5pohb",
+    "url": "https://app.amplication.com/cl04b0vtn159639801s6got5pohb",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl04b0vtn159639801s6got5pohb",
+      "authProvider": "Jwt"
+    }
+  }
+}
